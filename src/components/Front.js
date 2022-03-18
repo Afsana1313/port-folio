@@ -9,7 +9,7 @@ export default class Front extends Component {
                         I am a Front End Developer. <br />
                         Nice to meet you.</div>
                         <div>
-                        <a class="btn" target="_blank" href="Afsana_Zaman_Nipa_CV_15_3_2022.pdf" >Resume</a>
+                        <a class="btn" target="_blank" href='Afsana_Zaman_Nipa_CV_15_3_2022.pdf' download>Resume</a>
                         </div>
 
                 </div>

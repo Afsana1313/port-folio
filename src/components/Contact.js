@@ -52,7 +52,7 @@ export default class Contact extends Component {
         return (
             <div className="contact">
                <div className="contact_wrapper">
-                <div className="contact_form">
+                {/* <div className="contact_form">
                     <span className="contact_title">Leave a Message!</span>
                     <form method="POST" onSubmit={this.handleSubmit.bind(this)}>
                         <div className="contact_form_name_email">
@@ -100,7 +100,7 @@ export default class Contact extends Component {
                          <span style={{color: this.state.sent ? "green" : "red"}}>{this.state.text}</span>
                         </div>
                     </form>
-                </div>
+                </div> */}
                 <div className="contact_info">
                    <div className="contact_text">
                        <span className="contact_title">Contact Info</span>
